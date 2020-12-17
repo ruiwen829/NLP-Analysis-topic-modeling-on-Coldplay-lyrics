@@ -4,7 +4,7 @@ Target: To find similar singers like Coldplay (my favorite song writer) regardin
 
 Data: Webscrapped Lyrics of Coldplay and other popular singers I randomly picked from Internet, as well as the one recommended by Spotify for comparation.
 
-Model: LDA, NMF
+Model: LDA, NMF, LDA+Bert+KNN
 
 Visualization: Wordcloud, plotly.py
 
